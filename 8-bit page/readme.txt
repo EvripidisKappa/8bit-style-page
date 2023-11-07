@@ -1,0 +1,2 @@
+This is a very basic project I have done, inspired by a Udemy course. It is basically an 8-bit style page, about me personally, my life, my career and my portfolio. I used an 8-bit framework which you can find https://nostalgic-css.github.io/NES.css/, here!
+I hope you like it
